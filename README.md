@@ -1,5 +1,5 @@
 # idempotency-restfulapi-sample
-WIP POST,PUT,PATCHに冪等性をもたせたRESTfulAPIのサンプルです。
+WIP POST,PUT,PATCHに冪等性を持たせたRESTfulAPIのサンプルです。
 
 # Build and run.
 ```
