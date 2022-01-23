@@ -8,11 +8,11 @@ $ docker-compose up -d
 
 # Operation confirmation
 ```
-$ curl -i http://localhost:8080/
+$ curl -i http://localhost:8080/health
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=utf-8
-Date: Sat, 22 Jan 2022 05:41:47 GMT
-Content-Length: 25
+Date: Sun, 23 Jan 2022 12:28:34 GMT
+Content-Length: 16
 
-{"message":"hello world"}
+{"message":"OK"}
 ```
